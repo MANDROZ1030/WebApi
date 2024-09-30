@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "od7LRGK+oYY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.orozco\\Documents\\Proyectos\\WebApi\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.orozco\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0-rc.1.24452.1\\microsoft.aspnetcore.openapi.9.0.0-rc.1.24452.1.nupkg.sha512",
+    "C:\\Users\\m.orozco\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\m.orozco\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100-rc.1.24452.12\\microsoft.net.sdk.compilers.toolset.9.0.100-rc.1.24452.12.nupkg.sha512"
+  ],
+  "logs": []
+}
